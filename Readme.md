@@ -52,9 +52,9 @@ The project presents a comprehensive technical study of **military radar systems
 ---
 
 ## 📂 Repository Structure
- - Seminar_Report.pdf # Detailed seminar report
- - Seminar_Presentation.pptx # Seminar presentation slides
- - README.md # Project documentation
+ - Seminar_Report.pdf 
+ - Seminar_Presentation.pptx 
+ - README.md 
 
 
 ---
